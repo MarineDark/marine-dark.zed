@@ -1,0 +1,7 @@
+id = "marine-dark"
+name = "Marine Dark"
+version = "1.0.0"
+schema_version = 1
+authors = ["Hamza Mughal <hamza@prodesquare.com>"]
+description = "Colorscheme inspired by deep marine hues, designed by The ProDeSquare"
+repository = "https://github.com/MarineDark/marine-dark.zed"
